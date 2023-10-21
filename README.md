@@ -3,7 +3,6 @@ This repository hosts the code for the following tutorials on [Medium](https://m
 
 Learn the basics of Social Network Analysis with Python and NetworkX by exploring Billy Corgan's sphere of influence among musicians.
 
-
 1. [Visualizing Social Networks for Better Insights: Analyzing and Mapping Social Relationships with Python’s NetworkX Library](https://towardsdatascience.com/visualizing-social-networks-for-better-insights-analyzing-and-mapping-social-relationships-with-efeb82ab853e?sk=ba15709c7d136c205bd5fc5b6b8d933c)       
 *In Part 1, we explore a special kind of link analysis called Social Network Analysis (SNA). We can conduct Social Network Analysis with Python using the library NetworkX. First, we introduce Python and NetworkX. Then we explore the basics of SNA, such as nodes, edges, and measures of centrality.*
 
@@ -21,5 +20,5 @@ Learn the basics of Social Network Analysis with Python and NetworkX by explorin
 
 📓 [Annotated Notebook](https://github.com/christine-egan42/sna-billy-corgan/blob/65f2fe8a2822c4cc221519810c2b374fc6481e58/SNA4-Graphing-Billy-Corgans-Community.ipynb)
 
-<img src='https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png' width='600' height='400' align='center'>
+<img src='https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png' width='600' height='400'>
 
