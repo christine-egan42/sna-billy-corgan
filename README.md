@@ -22,7 +22,7 @@ Learn the basics of Social Network Analysis with Python and NetworkX by explorin
 📓 [Annotated Notebook](https://github.com/christine-egan42/sna-billy-corgan/blob/65f2fe8a2822c4cc221519810c2b374fc6481e58/SNA4-Graphing-Billy-Corgans-Community.ipynb)
 
 <p align="center">
-  <img width="600" height="400" src="https://picsum.photos/460/300](https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png">
+  <img width="600" height="400" src="https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png">
 </p>
 
 
