@@ -22,7 +22,7 @@ Learn the basics of Social Network Analysis with Python and NetworkX by explorin
 
 <div>
 <center>
-  <img src='https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png' width='600' height='400'>
+<img align="center" width="600" height="400" src="https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png">
 </center>
 </div>
 
