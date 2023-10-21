@@ -1,7 +1,9 @@
 # Social Network Analysis with Python and NetworkX
 This repository hosts the code for the following tutorials on [Medium](https://medium.com/@christineegan42).
 
-!["Billy Corgan's Network - NetworkX Graph"](https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png) "Billy Corgan's Network - NetworkX Graph")
+!["Billy Corgan's Network - NetworkX Graph"](https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png)
+
+<img src='(https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png)' width='400'>
 
 Learn the basics of Social Network Analysis with Python and NetworkX by exploring Billy Corgan's sphere of influence among musicians.
 
