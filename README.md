@@ -8,9 +8,10 @@ Learn the basics of Social Network Analysis with Python and NetworkX by explorin
 
 2. [Visualizing Social Networks for Better Insights: Analyzing and Mapping Social Relationships with Python’s NetworkX Library — Part 2](https://towardsdatascience.com/visualizing-social-networks-for-better-insights-analyzing-and-mapping-social-relationships-with-f4a9cf6b6d57?sk=872f4b2d55ff92698dc5b5c077011c74)        
 *In the previous installment, we kept the network small and simple. In Part 2, we will continue to use Python and NetworkX to examine Billy Corgan’s sphere of influence. We will also expand Billy Corgan’s network to make it more complex and increase our understanding of degree centrality and betweenness centrality. As we work through this example, we will discuss the context and how domain knowledge is essential to maximizing the benefits of social network analysis.*
+
 📓 [Annotated Notebook](https://github.com/christine-egan42/sna-billy-corgan/blob/65f2fe8a2822c4cc221519810c2b374fc6481e58/SNA-2-Centrality-Measures.ipynb)
 
-3. [Closeness and Communities: Analyzing Social Networks with Python and NetworkX — Part 3](https://towardsdatascience.com/visualizing-social-networks-for-better-insights-analyzing-and-mapping-social-relationships-with-f4a9cf6b6d57?sk=872f4b2d55ff92698dc5b5c077011c74)
+4. [Closeness and Communities: Analyzing Social Networks with Python and NetworkX — Part 3](https://towardsdatascience.com/visualizing-social-networks-for-better-insights-analyzing-and-mapping-social-relationships-with-f4a9cf6b6d57?sk=872f4b2d55ff92698dc5b5c077011c74)
 *At the beginning of our investigation into Billy Corgan’s sphere of influence, we introduced social network analysis and basic concepts like nodes and edges. In Part 2, we expanded our understanding of social network analysis by graphing the relationships between the members of the bands Smashing Pumpkins and Zwan. Then, we examined metrics like degree centrality and betweenness centrality to investigate the relationships between the members of the different bands. At the same time, we discussed how domain knowledge helps to inform our understanding of the results.*
 
 📓 [Annotated Notebook](https://github.com/christine-egan42/sna-billy-corgan/blob/65f2fe8a2822c4cc221519810c2b374fc6481e58/SNA-3-Closness-Centrality.ipynb)
@@ -20,8 +21,9 @@ Learn the basics of Social Network Analysis with Python and NetworkX by explorin
 
 📓 [Annotated Notebook](https://github.com/christine-egan42/sna-billy-corgan/blob/65f2fe8a2822c4cc221519810c2b374fc6481e58/SNA4-Graphing-Billy-Corgans-Community.ipynb)
 
-
-<img align="center" width="600" height="400" src="https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png">
+<p align="center">
+  <img width="600" height="400" src="https://picsum.photos/460/300](https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png">
+</p>
 
 
 
