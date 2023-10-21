@@ -1,8 +1,6 @@
 # Social Network Analysis with Python and NetworkX
 This repository hosts the code for the following tutorials on [Medium](https://medium.com/@christineegan42).
 
-<img src='https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png' width='400' height='300'>
-
 Learn the basics of Social Network Analysis with Python and NetworkX by exploring Billy Corgan's sphere of influence among musicians.
 
 
@@ -22,3 +20,6 @@ Learn the basics of Social Network Analysis with Python and NetworkX by explorin
 *In Part 3, we introduced a third centrality measure, closeness centrality. We also began a discussion on the concept of communities and subgroups and demonstrated different community graphs and how we might use closeness centrality to inform our interpretation. Using the network of musicians who were members of the bands Zwan and Smashing Pumpkins, we made inferences about the relationships between the members.*
 
 📓 [Annotated Notebook](https://github.com/christine-egan42/sna-billy-corgan/blob/65f2fe8a2822c4cc221519810c2b374fc6481e58/SNA4-Graphing-Billy-Corgans-Community.ipynb)
+
+<img src='https://github.com/christine-egan42/sna-billy-corgan/blob/1bfa700567647ac834ed2c144111be648d6cc5f0/sna-4.png' width='400' height='600' align='center'>
+
