@@ -1,5 +1,8 @@
 # Social Network Analysis with Python and NetworkX
-This repository hosts the code for the following tutorials on [Medium](https://medium.com/@christineegan42)
+This repository hosts the code for the following tutorials on [Medium](https://medium.com/@christineegan42).
+
+Learn the basics of Social Network Analysis with Python and NetworkX by exploring Billy Corgan's sphere of influence among musicians.
+
 
 1. [Visualizing Social Networks for Better Insights: Analyzing and Mapping Social Relationships with Python’s NetworkX Library](https://towardsdatascience.com/visualizing-social-networks-for-better-insights-analyzing-and-mapping-social-relationships-with-efeb82ab853e?sk=ba15709c7d136c205bd5fc5b6b8d933c)       
 *In Part 1, we explore a special kind of link analysis called Social Network Analysis (SNA). We can conduct Social Network Analysis with Python using the library NetworkX. First, we introduce Python and NetworkX. Then we explore the basics of SNA, such as nodes, edges, and measures of centrality.*
